@@ -23,7 +23,7 @@ smit_hcv_incidentie_analyse_sample.do
 The do-file provides step-by-step instructions of the procedures and models used to generate the more complex figures in the manuscript. Anyone should be able to run the code from start to finish and to replicate a set of figures similar to those in the manuscript. 
 
 
-NOTE: I have only provided simulated data for primary incidence calculations. The exact same models were used to calculate incidence of HCV re-infection. (The only difference is that the HCV re-infection dataset will contain indiviudals who re-enter follow-up after SVR or spontaneous clearance, see the manuscript for specific details on the left-censoring used for individuals with re-re-infection.) 
+NOTE: I have only provided simulated data for primary incidence calculations. The exact same models were used to calculate incidence of HCV re-infection. (The only difference is that the HCV re-infection dataset will contain individuals who re-enter follow-up after SVR or spontaneous clearance, see the manuscript for specific details on the left-censoring used for individuals with re-re-infection.) 
 
 
 NOTE: As with anything in life, mistakes can happen. The goal is to get the correct informaton out there. I am hoping that providing this code as open source will help others provide input on ways in which this analysis could be improved or if any mistakes occurred. I will ensure that any errors be checked in the original code and if present, be reported to the editors of the Lancet HIV in due course. You can contact me at the following email address: a.c.boyd@amsterdamumc.nl
